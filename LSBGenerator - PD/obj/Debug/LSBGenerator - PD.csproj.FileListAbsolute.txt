@@ -1,0 +1,11 @@
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form1.resources
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Properties.Resources.resources
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.csproj.GenerateResource.Cache
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe.config
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\Documents\visual studio 2013\Projects\old LSBGenerator - PD (2)\LSBGenerator - PD\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe.config
+C:\Users\Patryk\Documents\visual studio 2013\Projects\old LSBGenerator - PD (2)\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Documents\visual studio 2013\Projects\old LSBGenerator - PD (2)\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.pdb

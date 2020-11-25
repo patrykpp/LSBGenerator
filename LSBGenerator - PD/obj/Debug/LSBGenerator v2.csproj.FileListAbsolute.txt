@@ -1,0 +1,17 @@
+C:\Users\Patryk\Documents\visual studio 2013\Projects\LSBGenerator - PD v2\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe.config
+C:\Users\Patryk\Documents\visual studio 2013\Projects\LSBGenerator - PD v2\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Documents\visual studio 2013\Projects\LSBGenerator - PD v2\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\Documents\visual studio 2013\Projects\LSBGenerator - PD v2\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form1.resources
+C:\Users\Patryk\Documents\visual studio 2013\Projects\LSBGenerator - PD v2\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Properties.Resources.resources
+C:\Users\Patryk\Documents\visual studio 2013\Projects\LSBGenerator - PD v2\LSBGenerator - PD\obj\Debug\LSBGenerator v2.csproj.GenerateResource.Cache
+C:\Users\Patryk\Documents\visual studio 2013\Projects\LSBGenerator - PD v2\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Documents\visual studio 2013\Projects\LSBGenerator - PD v2\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\documents\visual studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe.config
+C:\Users\Patryk\documents\visual studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\documents\visual studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\documents\visual studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form1.resources
+C:\Users\Patryk\documents\visual studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Properties.Resources.resources
+C:\Users\Patryk\documents\visual studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator v2.csproj.GenerateResource.Cache
+C:\Users\Patryk\documents\visual studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\documents\visual studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\documents\visual studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator v2.csprojResolveAssemblyReference.cache

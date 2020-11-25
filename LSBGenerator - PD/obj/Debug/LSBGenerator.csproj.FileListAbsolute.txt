@@ -1,0 +1,37 @@
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe.config
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator - PD\LSBGenerator - PD\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\Desktop\LSBGenerator - Praca dyplomowa kopia bezpieczenstwa\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe.config
+C:\Users\Patryk\Desktop\LSBGenerator - Praca dyplomowa kopia bezpieczenstwa\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Desktop\LSBGenerator - Praca dyplomowa kopia bezpieczenstwa\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\Desktop\LSBGenerator - Praca dyplomowa kopia bezpieczenstwa\LSBGenerator - PD\obj\Debug\LSBGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Patryk\Desktop\LSBGenerator - Praca dyplomowa kopia bezpieczenstwa\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form1.resources
+C:\Users\Patryk\Desktop\LSBGenerator - Praca dyplomowa kopia bezpieczenstwa\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Properties.Resources.resources
+C:\Users\Patryk\Desktop\LSBGenerator - Praca dyplomowa kopia bezpieczenstwa\LSBGenerator - PD\obj\Debug\LSBGenerator.csproj.GenerateResource.Cache
+C:\Users\Patryk\Desktop\LSBGenerator - Praca dyplomowa kopia bezpieczenstwa\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Desktop\LSBGenerator - Praca dyplomowa kopia bezpieczenstwa\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form1.resources
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form3.resources
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Properties.Resources.resources
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form2.resources
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator.csproj.GenerateResource.Cache
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe.config
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.exe
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.pdb
+C:\Users\Patryk\Documents\Visual Studio 2013\Projects\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator.csprojResolveAssemblyReference.cache
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe.config
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.exe
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.pdb
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.pdb
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator.csprojResolveAssemblyReference.cache
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form1.resources
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form3.resources
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Properties.Resources.resources
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator___PD.Form2.resources
+C:\PRACA DYPLOMOWA inż\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator.csproj.GenerateResource.Cache
+H:\Projekt 2\LSBGenerator\LSBGenerator - PD\bin\Debug\LSBGenerator - PD.exe.config
+H:\Projekt 2\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.exe
+H:\Projekt 2\LSBGenerator\LSBGenerator - PD\obj\Debug\LSBGenerator - PD.pdb
